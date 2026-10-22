@@ -221,4 +221,4 @@ tsMuxeR is offered as a complete free version, providing users with all features
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-21 22:49:37 UTC
+**Last updated:** 2026-10-22 01:01:02 UTC
